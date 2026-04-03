@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rally_spring_2026",
+    "title": "春(はる)のフラワークイズラリー",
+    "locationName": "東京(とうきょう)駅前(えきまえ)・丸(まる)の内(うち)エリア",
+    "startDate": "2026-03-01T00:00:00Z",
+    "endDate": "2026-05-31T23:59:59Z",
+    "requiredQuizzes": [
+      "q1", "q2", "q3", "q4", "q5", "q6", "q7", "q8", "q9"
+    ]
+  },
+  {
+    "id": "rally_hanabiyori_spring_2026",
+    "title": "春(はる)のフラワークイズラリー",
+    "locationName": "HANA・BIYORI（東京都(とうきょうと)稲城市(いなぎし)よみうりランド内(ない)）",
+    "startDate": "2026-03-28T00:00:00Z",
+    "endDate": "2026-04-30T23:59:59Z",
+    "requiredQuizzes": [
+      "hq1", "hq2", "hq3", "hq4", "hq5", "hq6", "hq7", "hq8", "hq9", "hq10", "hq11", "hq12"
+    ]
+  }
+]
