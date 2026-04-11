@@ -1,8 +1,8 @@
 [
   {
     "id": "rally_spring_2026",
-    "title": "春(はる)のフラワークイズラリー",
-    "locationName": "東京(とうきょう)駅前(えきまえ)・丸(まる)の内(うち)エリア",
+    "title": "江東区(こうとうく)スプリングクイズラリー",
+    "locationName": "江東区(こうとうく)エリア",
     "startDate": "2026-03-01T00:00:00Z",
     "endDate": "2026-05-31T23:59:59Z",
     "requiredQuizzes": [
@@ -17,6 +17,16 @@
     "endDate": "2026-04-30T23:59:59Z",
     "requiredQuizzes": [
       "hq1", "hq2", "hq3", "hq4", "hq5", "hq6", "hq7", "hq8", "hq9", "hq10", "hq11", "hq12"
+    ]
+  },
+  {
+    "id": "rally_shinjuku_spring_2026",
+    "title": "新宿(しんじゅく) 春(はる)のクイズラリー",
+    "locationName": "新宿区(しんじゅくく)",
+    "startDate": "2026-03-15T00:00:00Z",
+    "endDate": "2026-04-30T23:59:59Z",
+    "requiredQuizzes": [
+      "sj1", "sj2", "sj3", "sj4", "sj5", "sj6", "sj7", "sj8", "sj9", "sj10", "sj11", "sj12"
     ]
   }
 ]
